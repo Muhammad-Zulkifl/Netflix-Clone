@@ -20,7 +20,7 @@ Tech Stack
         Assets: 
                 Images and videos to enhance the UI
 Getting Started
-        Clone this repository: git clone https://github.com/YourUsername/Netflix-Clone.git
+        Clone this repository: git clone https://github.com/Muhammad-Zulkifl/Netflix-Clone.git
 Open index.html in your browser.
 
 Contributing:
